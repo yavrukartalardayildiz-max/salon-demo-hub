@@ -1,0 +1,104 @@
+{
+  "title": "Salon Demo Hub",
+  "generated": "2026-06-22 04:41",
+  "counts": {
+    "demo": 5,
+    "canli": 5,
+    "mesaj": 5
+  },
+  "note": "Demolar 5 segment için CANLI. Gönderme öncesi: gerçek salonu seç → demo CONFIG'ini doldur → mesajı kopyala/uyarlayıp WhatsApp'tan gönder.",
+  "demos": [
+    {
+      "slug": "keskin-barber",
+      "ad": "KESKİN Barbershop",
+      "segment": "Erkek kuaförü / berber",
+      "emoji": "💈",
+      "live": "https://yavrukartalardayildiz-max.github.io/salon-demo-keskin-barber/",
+      "thumb": "thumbs/keskin-barber.jpg",
+      "built": true,
+      "mesaj": "Selam, ben Arda — Kadıköy'de küçük işletmelere web sitesi yapıyorum, Moda'da sizin dükkânın önünden de sık geçiyorum. Instagram'ınızı takip ediyorum, işçilik gerçekten temiz.\n\nŞöyle bir şey dikkatimi çekti: Insta'dan gelen birçok kişi muhtemelen \"randevu nasıl alıyorum, açık mıyım\" diye DM atıyor ya da hiç yazmadan kayıp gidiyor. Sizin için, Instagram'dan gelen kişiyi direkt randevuya çeviren küçük bir site hazırladım — üstte online randevu butonu, fiyatlar, çalışma saatleri ve birkaç güzel kesim fotoğrafı. Telefon başında uğraşmadan, kişi kendi saatini seçip yazılıyor.\n\nTamamen size özel, örnek olsun diye yaptım: https://yavrukartalardayildiz-max.github.io/salon-demo-keskin-barber/\n\n5 dakikanı alır, demoyu açıp bakar mısın? Beğenmezsen hiç sorun değil, yine de iyi günler dilerim."
+    },
+    {
+      "slug": "maya-sac-studyo",
+      "ad": "MAYA Saç & Renk Stüdyosu",
+      "segment": "Kadın saç & renk / balyaj",
+      "emoji": "✂️",
+      "live": "https://yavrukartalardayildiz-max.github.io/salon-demo-maya-sac-studyo/",
+      "thumb": "thumbs/maya-sac-studyo.jpg",
+      "built": true,
+      "mesaj": "(WhatsApp / Instagram DM tonu)\n\nMerhaba :) Ben Arda, Kadıköy'de küçük işletmelere sade web siteleri yapıyorum. MAYA'nın Instagram'ındaki balyaj çalışmalarına denk geldim, gerçekten editöryel bir göz var — özellikle renk geçişleri çok temiz.\n\nTam da bu yüzden ufak bir şey hazırladım: salonun için, balyaj/renk dönüşümlerini \"önce–sonra\" galerisiyle öne çıkaran ve insanı doğrudan randevuya yönlendiren tek sayfalık bir site denemesi. Instagram'da güzel işi gören kişi çoğu zaman \"fiyat ne, nasıl randevu alırım\" diye DM'de kayboluyor — burada o kişi linke tıklayıp saniyeler içinde randevu isteği bırakabiliyor.\n\nHazır gördüğün gibi dursun diye demoya senin studyonun adını ve renk dilini koydum: https://yavrukartalardayildiz-max.github.io/salon-demo-maya-sac-studyo/\n\n5 dakikanı alır, demoyu açıp bakar mısın? Beğenmezsen hiç dert değil, yine de fikrini merak ederim."
+    },
+    {
+      "slug": "lak-nail-studio",
+      "ad": "LAK Nail Studio",
+      "segment": "Tırnak / manikür / nail art",
+      "emoji": "💅",
+      "live": "https://yavrukartalardayildiz-max.github.io/salon-demo-lak-nail-studio/",
+      "thumb": "thumbs/lak-nail-studio.jpg",
+      "built": true,
+      "mesaj": "(WhatsApp / Instagram DM tonu)\n\nSelam! 🙂 Kadıköy'de küçük işletmelere web sitesi yapıyorum, LAK'ın Instagram'ına denk geldim — nail art'lar gerçekten çok temiz, paylaşımların hali hazırda bir \"marka\" gibi duruyor.\n\nAklıma şu takıldı: işlerin bu kadar güzelken, biri postunu görüp \"ben de istiyorum\" dediğinde nereye gidiyor? Çoğu salon o anı DM'de kaybediyor. Sana özel küçük bir site hazırladım — set/nail art örneklerin galeride, fiyatlar net, ve en önemlisi alttan tek tıkla WhatsApp randevu. Yani Instagram'dan gelen kişi randevuya dönüşüyor, sen mesaj trafiğinde boğulmadan.\n\nDemoyu senin salon için hayalî bir örnekle kurdum, bak istersen: https://yavrukartalardayildiz-max.github.io/salon-demo-lak-nail-studio/\n\n5 dakikanı alır, demoyu açıp bakar mısın? Beğenmezsen hiç sorun değil, yine de örnek olarak dursun sende."
+    },
+    {
+      "slug": "derme-skin-estetik",
+      "ad": "DERMÉ Cilt Bakım & Estetik",
+      "segment": "Cilt bakım / medikal estetik",
+      "emoji": "🌿",
+      "live": "https://yavrukartalardayildiz-max.github.io/salon-demo-derme-skin-estetik/",
+      "thumb": "thumbs/derme-skin-estetik.jpg",
+      "built": true,
+      "mesaj": "(WhatsApp / Instagram DM)\n\nMerhaba, ben Arda — Kadıköy'de küçük işletmelere web sitesi yapıyorum. DERME'nin Instagram'ını görünce takıldım, işiniz gerçekten temiz ve güven veren bir hava var.\n\nBu yüzden size küçük bir şey hazırladım: cilt bakımı/medikal estetik gibi \"önce güven kurman gereken\" işlerde, sayfanızı gören kişiyi rahatça randevuya çeviren bir site. Hangi işlem ne işe yarıyor, öncesi-sonrası, hijyen ve uzmanlık net görünüyor — ve insan hiç DM beklemeden online randevu bırakabiliyor.\n\nhttps://yavrukartalardayildiz-max.github.io/salon-demo-derme-skin-estetik/\n\nTamamen DERME'ye göre, örnek olarak yaptım. 5 dakikanı alır, demoyu açıp bakar mısın?"
+    },
+    {
+      "slug": "atolye-guzellik",
+      "ad": "ATÖLYE Güzellik & Gelin",
+      "segment": "Full güzellik + gelin",
+      "emoji": "👰",
+      "live": "https://yavrukartalardayildiz-max.github.io/salon-demo-atolye-guzellik/",
+      "thumb": "thumbs/atolye-guzellik.jpg",
+      "built": true,
+      "mesaj": "(WhatsApp / Instagram DM tonu)\n\nMerhaba, ben Arda — Kadıköy'de küçük işletmelere web sitesi yapan biriyim. ATÖLYE'nin Instagram'ını takip ediyorum, özellikle gelin makyajı işleriniz gerçekten çok temiz ve sıcak duruyor.\n\nSizin için küçük bir şey hazırladım: gelin ve özel gün paketlerinizi öne çıkaran, \"düğünüm var, kime gitsem\" diye arayan kişinin sizi seçeceği bir sayfa. Üstüne online randevu da bağlı — yani kişi geceyarısı bile baksa, telefonunuzu meşgul etmeden tarih ayırtabiliyor.\n\nBir bakın istedim: https://yavrukartalardayildiz-max.github.io/salon-demo-atolye-guzellik/\n\n5 dakikanı alır, demoyu açıp bakar mısın?"
+    }
+  ],
+  "reel": {
+    "baslik": "GenauAlmanca tanıtım reel — \"Cam Kırılıyor\"",
+    "konsept": "Özlem (cam arkasından izlemek) → tek sihirli kalıp (Ich möchte ___, bitte) → içeri gir. ~30 sn, 7 sahne.",
+    "hooks": [
+      "Cam ardındaki sen: \"Almanya'da o anlardasın… ama hep cam arkasından.\"",
+      "Donma anı: \"Kasiyer sana baktı… ve aklın bomboş.\"",
+      "Boşluğa koy: \"Almanca aslında matematik gibi. Boşluğa koy, bitsin.\"",
+      "Anlamadığın o an: \"Sana gülümseyip bir şey dedi… ve sen sadece başını salladın.\"",
+      "Kaçış refleksi: \"Almanca soru gelince hemen 'İngilizce?' diyorsan… dur.\""
+    ],
+    "durum": "Paket hazır · Higgsfield üretimi onay bekliyor (kredi)"
+  },
+  "leads": [
+    {
+      "label": "Kuaför (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+kuaf%C3%B6r"
+    },
+    {
+      "label": "Berber/erkek (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+berber+erkek+kuaf%C3%B6r"
+    },
+    {
+      "label": "Kadın saç/renk (Maps)",
+      "url": "https://www.google.com/maps/search/Moda+Kad%C4%B1k%C3%B6y+sa%C3%A7+tasar%C4%B1m+balyaj"
+    },
+    {
+      "label": "Güzellik salonu (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+g%C3%BCzellik+salonu"
+    },
+    {
+      "label": "Tırnak/nail (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+nail+studio+t%C4%B1rnak"
+    },
+    {
+      "label": "Cilt/estetik (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+cilt+bak%C4%B1m+estetik"
+    },
+    {
+      "label": "Gelin/makyaj (Maps)",
+      "url": "https://www.google.com/maps/search/Kad%C4%B1k%C3%B6y+gelin+sa%C3%A7%C4%B1+makyaj"
+    }
+  ]
+}
